@@ -1,4 +1,4 @@
-## Olá, eu sou o é Gabriel França 👋
+## Olá, eu sou o Gabriel França 👋
 
 - 🖥️ Hoje trabalho com Infraestrutura de Redes
 - 📚 Atualmente estudando Python
