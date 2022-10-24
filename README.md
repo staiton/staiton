@@ -1,8 +1,8 @@
 ## Olá, eu sou o Gabriel França 👋
 
-- 🖥️ Hoje trabalho com Infraestrutura de Redes
-- 📚 Atualmente estudando Python
-- 😊 Pronomes: He/Him
+- 🖥️ Hoje trabalho com **Infraestrutura de Redes**
+- 📚 Atualmente estudando **Python**
+- 😊 Pronomes: Ele/Dele
 
 <div align="left">
   <a href="https://github.com/staiton">
@@ -16,12 +16,27 @@
   <img align="center" alt="Gabriel-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"> 
   <img align="center" alt="Gabriel-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg"> -->
 
-          
-                  
-          
+
+## 🛠️ Ferramentas 
+<div>
+<p align="left">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white" />
+<img src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white" />
+<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+<img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" />
+</p>       
 </div>
+
+## 💻 Linguagens 
+<div>
+<p align="left">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</div>
+</p>
   
- ##
+ ## 📇 Contato
  
 <div> 
   <a href="https://www.linkedin.com/in/gabriel-franca5592/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
