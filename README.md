@@ -1,7 +1,7 @@
 ## Olá, eu sou o Gabriel França 👋
 
 - 🖥️ Hoje trabalho com **Infraestrutura de Redes**
-- 📚 Atualmente estudando **Python**
+- 📚 Atualmente estudando **Cybersecurity**
 - 😊 Pronomes: Ele/Dele
 
 <!-- <div align="left">
@@ -29,13 +29,6 @@
 </p>       
 </div>
 
-## 💻 Linguagens 
-<div>
-<p align="left">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</div>
-</p>
   
  ## 📇 Contato
  
@@ -44,7 +37,5 @@
   <a href = "mailto:gabrielfranca592@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/franca.jpeg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.youtube.com/channel/UCJI2G5SMwgmuUyicrW54tkQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
